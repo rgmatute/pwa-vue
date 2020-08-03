@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://rgmatute.github.io/pwa-vue/precache-manifest.01f9d3f9f709bc8165751685f8892e5a.js"
+  "/precache-manifest.2e0360f4ca9b9f26cba499611f20930f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "adminlte2_test2"});
