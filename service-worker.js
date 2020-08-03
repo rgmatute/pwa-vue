@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pwa-vue/precache-manifest.53eed3f70d0fb5e74ad503e9d2f5ad90.js"
+  "/pwa-vue/precache-manifest.842ae13919e1bf49721e108dda528d59.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "adminlte2_test2"});
+workbox.core.setCacheNameDetails({prefix: "StartRest"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
