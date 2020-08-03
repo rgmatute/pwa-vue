@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2e0360f4ca9b9f26cba499611f20930f.js"
+  "/pwa-vue/precache-manifest.fbd6c9dd8493ce7e85365e28871f1a9f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "adminlte2_test2"});
