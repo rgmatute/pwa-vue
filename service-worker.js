@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pwa-vue/precache-manifest.842ae13919e1bf49721e108dda528d59.js"
+  "/pwa-vue/precache-manifest.70109319cbb20c34e8ff5b850a2ec0d0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "StartRest"});

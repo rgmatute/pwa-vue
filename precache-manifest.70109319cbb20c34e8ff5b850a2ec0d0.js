@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c18ca807cbfd1d14ca61",
+    "revision": "3ba90c2eba1b6104ff92",
     "url": "/pwa-vue/css/app.a74680be.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa-vue/img/woman.55221557.png"
   },
   {
-    "revision": "75b61b9a286a17e6c121cfd7063ba000",
+    "revision": "96016092ed33761bc10e42a40ebbe779",
     "url": "/pwa-vue/index.html"
   },
   {
-    "revision": "1721a692db9723531601",
-    "url": "/pwa-vue/js/about.a70f44ed.js"
+    "revision": "047f43e662bd1d39704f",
+    "url": "/pwa-vue/js/about.b041b186.js"
   },
   {
-    "revision": "c18ca807cbfd1d14ca61",
-    "url": "/pwa-vue/js/app.3536fba6.js"
+    "revision": "3ba90c2eba1b6104ff92",
+    "url": "/pwa-vue/js/app.18b37431.js"
   },
   {
     "revision": "fcfab6013a3b78d4e005",
